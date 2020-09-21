@@ -38,10 +38,10 @@ Then we compiled our model with loss function "categorical_crossentropy" and opt
 
 After training, we achieved <br /><br />
 Training accuracy = 98.77%<br />
-<img src="https://github.com/gearhead0909/Weather-Detection-Using-Images/blob/master/Accuracy.png" alt="alt text" width="500" height="300"><br /><br />
+<img src="https://github.com/gearhead0909/Weather-Detection/blob/master/Accuracy.png" alt="alt text" width="500" height="300"><br /><br />
 
 Loss = 0.04<br />
-<img src="https://github.com/gearhead0909/Weather-Detection-Using-Images/blob/master/Loss.png" alt="alt text" width="500" height="300"><br /><br />
+<img src="https://github.com/gearhead0909/Weather-Detection/blob/master/Loss.png" alt="alt text" width="500" height="300"><br /><br />
 
 After training, save the trained model.<br />
 Then in testing we we used seperated and prepared data (.npy) to run our trained model.<br />
