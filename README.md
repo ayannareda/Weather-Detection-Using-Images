@@ -8,8 +8,8 @@ Weather detection using images. Used CNN deep learning approach to classify weat
 4. Snowy <br />
 5. Foggy<br /><br />
 
-Dataset used in this project is available on IEEEDataPort website.<br />
-You can download the sataset from https://ieee-dataport.org/documents/five-class-weather-image-dataset-1<br /><br />
+Dataset used in this project is available on IEEE DataPort website.<br />
+You can download the dataset from https://ieee-dataport.org/documents/five-class-weather-image-dataset-1<br /><br />
 
 Dataset includes five types of weather conditions (cloudy, sunny, foggy, rainy and snowy).<br />
 This dataset, called FWID, includes 4000 images for each weather category, leading to a total of 20000 images.<br /><br />
@@ -44,5 +44,5 @@ Loss = 0.04<br />
 <img src="https://github.com/gearhead0909/Weather-Detection/blob/master/Loss.png" alt="alt text" width="500" height="300"><br /><br />
 
 After training, save the trained model.<br />
-Then in testing we we used seperated and prepared data (.npy) to run our trained model.<br />
+Then in testing we used separated and prepared data (.npy) to run our trained model.<br />
 Acheived testing accuracy = 74.28%
